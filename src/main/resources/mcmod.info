@@ -1,16 +1,16 @@
 [
   {
-    "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "modid": "gemstonecollection",
+    "name": "Gemstone Collection Mod",
+    "description": "A mod to track gemstone collections in Hypixel Skyblock.",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/your-repository/GemstoneCollectionMod",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "Your Name"
     ],
-    "credits": "",
+    "credits": "Thanks to the Minecraft modding community.",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
