@@ -26,7 +26,7 @@ import java.util.regex.Pattern;
 public class GemstoneCollectionMod {
     public static final String MOD_ID = "gemstonecollection";
 
-    private static final String API_KEY = "6c04dd43-e7a4-40bc-b71a-eeb155934b3a"; // Replace with your Hypixel API Key
+    private static final String API_KEY = "TOKEN"; // Replace with your Hypixel API Key
     private static final String UUID = "7ebb8655-e5a4-4f97-88ff-f93647f8cc86"; // Replace with the UUID of the player to track
 
     private static final int FETCH_INTERVAL = 2400; // Fetch data every 2 minutes (1200 ticks per minute)
